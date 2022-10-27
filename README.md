@@ -1,4 +1,4 @@
-# Hi there 👋 I'm i16fujimoto！
+# Hi there 👋 I'm AltairSoftware！
 
 ## 💎 GitHub Stats
 <p align="left"> 
