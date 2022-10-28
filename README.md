@@ -1,4 +1,4 @@
-# Hi there 👋 I'm AltairSoftware！
+# Hello there! I'm Yoshiki Furuya！
 
 ## GitHub Stats
 <p align="left"> 
