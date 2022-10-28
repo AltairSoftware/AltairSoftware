@@ -3,10 +3,10 @@
 ## 💎 GitHub Stats
 <p align="left"> 
 <!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altairsoftware&layout=compact&show_icons=true&count_private=true&theme=onedark" /> -->
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=altairsoftware&theme=radical&show_icons=ture&count_private=true" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=altairsoftware&theme=2077&show_icons=ture&count_private=true" />
     
 ## 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=AltairSoftware&count_private=true&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AltairSoftware&count_private=true&theme=2077&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🃏 GitHub Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AltairSoftware&count_private=true&theme=2077)
